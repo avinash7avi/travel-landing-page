@@ -1,0 +1,16 @@
+font
+
+peralta-400
+poppins-700 and 500 and 400
+
+color
+root{
+--black-color:#000000;
+--lightblack-color:#212832;
+--orange-color:#EC682C;
+--blue-color:#4B40C5;
+--white-color:#FFFFFF;
+--darkblue-color:#14183E;
+--lightornge-color:#DF6951;
+--text-color:#5E6282;
+}
